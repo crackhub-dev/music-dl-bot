@@ -1,0 +1,5 @@
+{
+    "commands": true,
+    "guildJoin": true,
+    "guildLeave": true
+}

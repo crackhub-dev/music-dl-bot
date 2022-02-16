@@ -1,0 +1,10 @@
+{
+    "name": "Music Slav",
+    "status": "All slavs 👀",
+    "statusType": "WATCHING",
+    "token": "",
+    "intents": [
+        "GUILDS",
+        "GUILD_MESSAGES"
+    ]
+}
