@@ -14,7 +14,7 @@ wget https://github.com/yt-dlp/yt-dlp/releases/download/2022.02.04/yt-dlp && chm
 echo "Installed: yt-dlp"
 curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash 
 source ~/.profile
-nvm install 16.13.1 && nvm use 16.13.1
+nvm install 16.13.1
 echo "Installed: nodeJS v16.13.1"
 pip3 install streamrip
 echo "Installed: streamrip"
